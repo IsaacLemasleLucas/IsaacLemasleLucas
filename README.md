@@ -5,7 +5,7 @@
 - 📫 How to reach me : lucas.isaac.22@eigsi.fr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am an engineer graduated from EIGSI La Rochelle school but also 
-have a master of Robotic Sciences with Distinction !
+have a master of Robotic Sciences with Distinction from Heriot-Watt University (Scotland) !
 
 <!---
 IsaacLemasleLucas/IsaacLemasleLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
